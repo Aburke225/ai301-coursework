@@ -3,7 +3,7 @@
 My working set for **issue #5** (`Add end-to-end ingestion test with a sample resume fixture`)
 in `codepath/pathreview-ai301-fa26-s1`. GitHub handle on all of it: Aburke225.
 
-Nothing is posted upstream yet. Everything below is local.
+Nothing is posted upstream yet: no claim, no repro comment, no plan comment, no pull request.
 
 ## Layout
 
